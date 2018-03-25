@@ -1,11 +1,11 @@
 # karts
 JAVA: Arrays de objetos
 
+**Simulación de una carrera de Karts**.
+
 ## Introducción
 
-Código para realizar **simulación de una carrera de Karts**.
-
-Para ejecutar en Netbeans, crear un proyecto nuevo y copiar dento la carpeta `src`.
+Para ejecutar en Netbeans, crear un proyecto nuevo y copiar dentro la carpeta `src`.
 
 ## Diagrama de clases
 
